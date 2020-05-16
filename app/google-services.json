@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046758012102",
+    "firebase_url": "https://fchat-bf946.firebaseio.com",
+    "project_id": "fchat-bf946",
+    "storage_bucket": "fchat-bf946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046758012102:android:abd3325fbbdef21b7c93c7",
+        "android_client_info": {
+          "package_name": "com.samy.familychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046758012102-mrb8etoli7sk97r2sfuin90hrl0kgemo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2nFJo_Z8uirlT6DDLSsO1G97Bd1GIsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046758012102-mrb8etoli7sk97r2sfuin90hrl0kgemo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
